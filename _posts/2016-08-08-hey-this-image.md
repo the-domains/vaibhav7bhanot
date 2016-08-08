@@ -5,15 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: hey this image
-datePublished: '2016-08-08T00:33:40.741Z'
-dateModified: '2016-08-08T00:33:25.992Z'
+datePublished: '2016-08-08T00:49:24.612Z'
+dateModified: '2016-08-08T00:34:45.264Z'
+title: ''
+author:
+  - name: ''
+    url: ''
+via: {}
+sourcePath: _posts/2016-08-08-hey-this-image.md
 authors: []
 publisher: {}
-title: ''
-author: []
-via: {}
-starred: false
-sourcePath: _posts/2016-08-08-hey-this-image.md
+starred: true
 url: hey-this-image/index.html
 _type: Article
 
